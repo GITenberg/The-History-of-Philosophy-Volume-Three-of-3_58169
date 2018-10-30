@@ -1,0 +1,38 @@
+_repo: The-History-of-Philosophy-Volume-Three-of-3_58169
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Simson, Frances H.
+    gutenberg_agent_id: '46502'
+    url: http://www.gutenberg.org/2009/agents/46502
+  - agent_name: Haldane, Elizabeth Sanderson
+    aliases:
+    - Haldane, Elizabeth S. (Elizabeth Sanderson)
+    - Haldane, E. S. (Elizabeth Sanderson)
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '43001'
+    url: http://www.gutenberg.org/2009/agents/43001
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Haldane
+creator:
+  author:
+    agent_name: Hegel, Georg Wilhelm Friedrich
+    alias: Hegel, G. W. F. (Georg Wilhelm Friedrich)
+    birthdate: 1770
+    deathdate: 1831
+    gutenberg_agent_id: '2161'
+    url: http://www.gutenberg.org/2009/agents/2161
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
+description: ''
+gutenberg_issued: '2018-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The History of Philosophy: Volume Three (of 3)'
+url: http://www.gutenberg.org/ebooks/58169
