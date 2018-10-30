@@ -1,5 +1,5 @@
 _repo: The-History-of-Philosophy-Volume-Three-of-3_58169
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Simson, Frances H.
@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '43001'
     url: http://www.gutenberg.org/2009/agents/43001
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Haldane
+covers:
+- cover_type: archival
+  image_path: 58169-h/images/cover.jpg
 creator:
   author:
     agent_name: Hegel, Georg Wilhelm Friedrich
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2161
     wikipedia: http://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58169#The-History-of-Philosophy-Volume-Three-of-3
 gutenberg_issued: '2018-10-26'
 gutenberg_type: Text
 identifiers:
